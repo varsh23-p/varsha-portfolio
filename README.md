@@ -2,7 +2,7 @@
 
 My personal portfolio website. The home page works like a small data report: you can filter my projects by domain (Data & BI, Web, Mobile, Machine Learning) or click a tool in the chart, and everything updates.
 
-Live website: [paste your Vercel link here]
+Live website: [https://varsha-portfolio-alpha-eight.vercel.app/]
 
 ## What is inside
 - Interactive home page with filters, a tool chart and project list
