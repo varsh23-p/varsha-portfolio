@@ -6,7 +6,7 @@ Live website: [https://varsha-portfolio-alpha-eight.vercel.app/]
 
 ## What is inside
 - Interactive home page with filters, a tool chart and project list
-- Projects, skills, gallery, certificates, blog, resume and about pages
+- Projects, skills, gallery, certificates, blog, resume and about pages 
 - Contact form that sends messages to my email (EmailJS)
 - Works on phones, tablets and computers
 
